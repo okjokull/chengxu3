@@ -1,0 +1,16 @@
+..\obj\driver.o: ..\HARDWARE\DRIVER\driver.c
+..\obj\driver.o: ..\HARDWARE\DRIVER\driver.h
+..\obj\driver.o: ..\SYSTEM\sys\sys.h
+..\obj\driver.o: d:\Keil_v5\ARM\PACK\Keil\STM32F7xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h
+..\obj\driver.o: d:\Keil_v5\ARM\PACK\Keil\STM32F7xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f767xx.h
+..\obj\driver.o: ..\SYSTEM\sys\core_cm7.h
+..\obj\driver.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\driver.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\driver.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\driver.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\driver.o: ..\SYSTEM\sys\core_cmSimd.h
+..\obj\driver.o: d:\Keil_v5\ARM\PACK\Keil\STM32F7xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h
+..\obj\driver.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\driver.o: ..\SYSTEM\delay\delay.h
+..\obj\driver.o: ..\SYSTEM\usart\usart.h
+..\obj\driver.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
